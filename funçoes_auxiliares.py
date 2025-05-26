@@ -6,3 +6,5 @@ def gera_num(x):
     return (random.randint(10**(x-1), (10**x)-1))
     
 print (gera_num(x))
+
+#ADICIONEI ALGO NOVO
